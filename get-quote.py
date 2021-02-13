@@ -1,6 +1,6 @@
 import random
 def primary():
-  #print("Renamed the primary function")
+  #print("Random quote bot is working")
 
   f = open("quotes.txt")
   quotes = f.readlines()
