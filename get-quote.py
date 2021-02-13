@@ -1,5 +1,5 @@
-def main():
-    print("Hello World.")
+def primary():
+    print("Renamed the primary function")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
@@ -8,4 +8,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  primary()
